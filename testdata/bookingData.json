@@ -1,0 +1,37 @@
+{
+    "validBooking": [
+        {
+            "firstName": "Saad",
+            "lastName": "Qamar",
+            "address": "Lahore Pakistan",
+            "ccNum": "4111111111111111",
+            "ccType": "VISA",
+            "expMonth": "12",
+            "expYear": "2026",
+            "cvv": "123"
+        }
+    ],
+    "invalidBooking": [
+        {
+            "firstName": "",
+            "lastName": "",
+            "address": "",
+            "ccNum": "123",
+            "ccType": "VISA",
+            "expMonth": "12",
+            "expYear": "2020",
+            "cvv": "12"
+        },
+
+        {
+            "firstName": "Saad",
+            "lastName": "Qamar",
+            "address": "Lahore Pakistan",
+            "ccNum": "123",
+            "ccType": "VISA",
+            "expMonth": "12",
+            "expYear": "2028",
+            "cvv": "123"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "validSearch": [
+        {
+            "location": "Sydney",
+            "hotel": "Hotel Creek",
+            "roomType": "Standard",
+            "rooms": "1",
+            "checkIn": "15/04/2024",
+            "checkOut": "17/04/2024",
+            "adults": "2",
+            "children": "1"
+        }
+    ],
+    "invalidSearch": [
+        {
+            "hotel": "Hotel Creek",
+            "roomType": "Standard",
+            "rooms": "1",
+            "checkIn": "15/04/2024",
+            "checkOut": "17/04/2024",
+            "adults": "2",
+            "children": "1"
+        }
+    ]
+}
