@@ -1,0 +1,1 @@
+[{"uid":"7cb4db39619221de","name":"e2e test","time":{"start":1778526959249,"stop":1778527030570,"duration":71321},"status":"broken","severity":"normal"},{"uid":"db8a446310bb74d9","name":"Successful loginwith valid credentials","time":{"start":1778528457087,"stop":1778528462784,"duration":5697},"status":"passed","severity":"normal"}]

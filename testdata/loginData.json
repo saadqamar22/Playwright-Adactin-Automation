@@ -9,6 +9,14 @@
         {
             "username": "wrong",
             "password": "wrong123"
+        },
+        {
+            "username": "haristester01",
+            "password": "wrong123"
+        },
+        {
+            "username": "wrong",
+            "password": "haristester01"
         }
     ]
 }

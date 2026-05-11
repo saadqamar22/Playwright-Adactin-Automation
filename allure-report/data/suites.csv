@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5697","Successful loginwith valid credentials","chromium","2026-05-12","passed","2026-05-12","","PositiveCases/successfullogin.spec.js","",""
+"","71321","e2e test","chromium","2026-05-12","broken","2026-05-12","","E2E/e2e.spec.js","",""
